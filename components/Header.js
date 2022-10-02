@@ -28,40 +28,28 @@ const Header = () => {
         <div className={styles.headerWrapper}>
             <nav className={styles.nav}>
                 <div className={styles.navItem}>
-                    <div className={styles.navLink}>Cryptocurrencies</div>
+                    <div className={styles.navLink}>Antelope marketcap</div>
                     <div className={styles.badge}/>
                 </div>
 
                 <div className={styles.navItem}>
-                    <div className={styles.navLink}>Exchanges</div>
+                    <div className={styles.navLink}>Swap</div>
                 </div>
 
                 <div className={styles.navItem}>
-                    <div className={styles.navLink}>NFT</div>
+                    <div className={styles.navLink}>Pool</div>
                     <div className={styles.badge}/>
                 </div>
 
                 <div className={styles.navItem}>
-                    <div className={styles.navLink}>Cryptown</div>
+                    <div className={styles.navLink}>Farm</div>
                     <div className={styles.badge}/>
                 </div>
 
                 <div className={styles.navItem}>
-                    <div className={styles.navLink}>Portfolio</div>
+                    <div className={styles.navLink}>Telegram</div>
                 </div>
 
-                <div className={styles.navItem}>
-                    <div className={styles.navLink}>Watchlist</div>
-                </div>
-
-                <div className={styles.navItem}>
-                    <div className={styles.navLink}>Products</div>
-                    <div className={styles.badge}/>
-                </div>
-
-                <div className={styles.navItem}>
-                    <div className={styles.navLink}>Learn</div>
-                </div>
             </nav>
 
             <div className='flex items-center'>
