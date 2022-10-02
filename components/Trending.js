@@ -48,7 +48,7 @@ const Trending = () => {
     <div className='text-white'>
         <div className={styles.trendingWrapper}>
             <div className='flex justify-between'>
-                <h1 className={styles.h1}>Today's Antelope market capilization</h1>
+                <h1 className={styles.h1}>Today's Antelope market capitalization</h1>
 
                 <div className='flex'>
                     <p className='text-gray-400'>Highlights &nbsp;</p>
