@@ -50,16 +50,12 @@ const Trending = () => {
             <div className='flex justify-between'>
                 <h1 className={styles.h1}>Today's Antelope market capitalization</h1>
 
-                <div className='flex'>
-                    <p className='text-gray-400'>Highlights &nbsp;</p>
-                    <ReactSwitch checked={checked} onChange={()=> {setChecked(!checked)}} />
-                </div>
             </div>
             <br/>
             <div className='flex'>
                 <p className='text-gray-400'>The global crypto market cap is $1.74T, a &nbsp;</p>
                 <span><Rate isIncrement={true} rate ='0.53%' /></span>
-                <p> &nbsp; decrease over the last day. <span className='underline'>Read More</span></p>
+                <p> &nbsp; change over the last day. <span className='underline'>Read More</span></p>
             </div>
             <br/>
 
