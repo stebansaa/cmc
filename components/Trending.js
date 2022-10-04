@@ -17,25 +17,25 @@ const styles = {
 const trendingData = [
     {
         number:1,
-        symbol: "BTC",
-        name: "Bitcoin",
+        symbol: "TLOS",
+        name: "Telos",
         icon: btc,
         isIncrement: true,
         rate: "2.34%"
     },
     {
         number:2,
-        symbol: "USDT",
-        name: "Tether",
-        icon: usdt,
+        symbol: "EOS",
+        name: "EOS",
+        icon: eos,
         isIncrement: false,
         rate: "9.23%"
     },
     {
         number:3,
-        symbol: "BTC",
-        name: "Bitcoin",
-        icon: btc,
+        symbol: "WAXP",
+        name: "WAXP",
+        icon: wapx,
         isIncrement: true,
         rate: "2.34%"
     },
