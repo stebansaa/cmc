@@ -21,21 +21,21 @@ const trendingData = [
         name: "Telos",
         icon: btc,
         isIncrement: true,
-        rate: "2.34%"
+        rate: "2.39%"
     },
     {
         number:2,
         symbol: "EOS",
         name: "EOS",
-        icon: eos,
-        isIncrement: false,
+        icon: btc,
+        isIncrement: true,
         rate: "9.23%"
     },
     {
         number:3,
         symbol: "WAXP",
         name: "WAXP",
-        icon: wapx,
+        icon: btc,
         isIncrement: true,
         rate: "2.34%"
     },
